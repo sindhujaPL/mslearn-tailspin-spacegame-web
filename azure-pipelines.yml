@@ -7,7 +7,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'unbuntu-18.04'
+  vmImage: 'unbuntu-20.04'
   demands:
     - npm
 
